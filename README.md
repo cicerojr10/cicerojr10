@@ -1,16 +1,36 @@
-## Hi there 👋
+## 👋 Olá! Eu sou Cícero Júnior
 
-<!--
-**cicerojr10/cicerojr10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Sobre mim
+Estudante de **Ciência da Computação (6º período)** com mais de **8 anos de experiência** em manutenção de aparelhos eletroeletrônicos. Apaixonado por **inteligência artificial, ciência de dados e inovação em saúde**. Possuo certificações em **desenvolvimento web front-end, arquitetura de hardware e Oracle Cloud Infrastructure AI**. Meu foco é a resolução de problemas e a aplicação prática de soluções tecnológicas.
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=ai&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projetos em destaque
+- 📊 **[Projeto de Visualização de Informação](https://github.com/cicerojr10/projeto_visualizacao_informacao)** - Análise e visualização de dados utilizando Python.
+- 🏦 **[Banco Digital](https://github.com/cicerojr10/banco-digital)** - Um projeto prático aplicando conceitos de POO com Java e Spring Boot.
+- 📚 **[Sistema de Biblioteca](https://github.com/cicerojr10/biblioteca-online)** - Gerenciamento de biblioteca online utilizando Spring Boot e H2 Database.
+- 🤖 **[Projeto de IA e Machine Learning](https://github.com/cicerojr10/ai-ml-projects)** - Exploração de técnicas de IA para análise preditiva.
+
+### 📊 Estatísticas
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cicerojr10&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cicerojr10&layout=compact&theme=dracula)
+
+### 🌍 Idiomas
+- 🇮🇹 Italiano
+- 🇫🇷 Francês
+- 🇬🇧 Inglês
+- 🇧🇷 Português
+
+### 📫 Contato
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cicerojr-techprofessional/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cicerojr10@gmail.com)
+
+---
+
+✨ _Sempre aprendendo e evoluindo!_

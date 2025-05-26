@@ -13,8 +13,8 @@ Estudante de **Ciência da Computação (6º período)** com mais de **8 anos de
 
 ### 🚀 Projetos em destaque
 - 📊 **[Projeto de Visualização de Informação](https://github.com/cicerojr10/projeto_visualizacao_informacao)** - Análise e visualização de dados utilizando Python.
-- 🏦 **[Banco Digital](https://github.com/cicerojr10/banco-digital)** - Um projeto prático aplicando conceitos de POO com Java e Spring Boot.
-- 📚 **[Sistema de Biblioteca](https://github.com/cicerojr10/biblioteca-online)** - Gerenciamento de biblioteca online utilizando Spring Boot e H2 Database.
+- 🏦 **[Banco Digital](https://github.com/cicerojr10/dio_desafio_bancoDeDados)** - Um projeto prático aplicando conceitos de POO com Java e Spring Boot.
+- 📚 **[Sistema de Biblioteca](https://github.com/cicerojr10/LibraryManagementSystem)** - Gerenciamento de biblioteca online utilizando Spring Boot e H2 Database.
 - 🤖 **[Projeto de IA e Machine Learning](https://github.com/cicerojr10/ai-ml-projects)** - Exploração de técnicas de IA para análise preditiva.
 
 ### 📊 Estatísticas

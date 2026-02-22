@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/badge/Visite%20meu%20site-Online-green?style=for-the-badge&logo=githubpages)](https://www.cicerojrtechprofessional.software/)
 
 ### 💻 Sobre mim  
-Estudante de **Ciência da Computação (6º período)** com mais de **8 anos de experiência** em manutenção de aparelhos eletroeletrônicos. Apaixonado por **inteligência artificial, ciência de dados e inovação em saúde**. Possuo certificações em **desenvolvimento web front-end, arquitetura de hardware e Oracle Cloud Infrastructure AI**. Meu foco é resolver problemas com aplicações práticas e tecnológicas.
+Estudante de **Ciência da Computação (8º período)** com mais de **9 anos de experiência** em manutenção de aparelhos eletroeletrônicos. Apaixonado por **inteligência artificial, ciência de dados e inovação em saúde**. Possuo certificações em **desenvolvimento web front-end, arquitetura de hardware e Oracle Cloud Infrastructure AI**. Meu foco é resolver problemas com aplicações práticas e tecnológicas.
 
 ---
 
